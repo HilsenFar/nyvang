@@ -24,6 +24,10 @@ Filerne er skrevet af en generator ud fra en geometrisk model af skolen og blive
 - Fodtrinslyde: Kenney, CC0 1.0 (https://kenney.nl/assets/impact-sounds). Se `CREDITS.md`.
 - 3D-motor: three.js 0.165.0, MIT. Se `THIRD-PARTY-NOTICES.md`.
 
+## Hjælp med at møblere
+
+Husker du, hvordan der så ud? Sæt det ind med knappen Møbler, og tryk Indsend. Det, du har sat ind, flyttet eller fjernet, bliver sendt til den, der står for siden, og set igennem, før noget kommer med i skolens møblering.
+
 ## Dine data
 
-Det, du møblerer, gemmes kun i din egen browser. Siden henter kun sine egne filer, bruger ingen cookies og sender ikke noget om dig videre.
+Det, du møblerer, gemmes i din egen browser. Trykker du Indsend, sendes det, du har sat ind, flyttet eller fjernet, og det navn og den besked, du selv skriver (begge er valgfri). Det sendte kan blive en del af den offentlige model; navn og besked bliver ikke vist offentligt. Ellers henter siden kun sine egne filer, bruger ingen cookies og sender ikke noget om dig videre.
