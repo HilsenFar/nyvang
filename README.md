@@ -26,8 +26,10 @@ Filerne er skrevet af en generator ud fra en geometrisk model af skolen og blive
 
 ## Hjælp med at møblere
 
-Husker du, hvordan der så ud? Sæt det ind med knappen Møbler, og tryk Indsend. Det, du har sat ind, flyttet eller fjernet, bliver sendt til den, der står for siden, og set igennem, før noget kommer med i skolens møblering.
+Husker du, hvordan der så ud? Sæt det ind med knappen Tilføj, og tryk Indsend. Det, du har sat ind, flyttet eller fjernet, bliver sendt til den, der står for siden, og set igennem, før noget kommer med i skolens møblering.
+
+Mangler der noget i kataloget, så søg efter det i feltet ved fanerne. Det, der ikke findes, bliver gemt som et ønske og sendt med, næste gang du trykker Indsend, så det kan blive bygget.
 
 ## Dine data
 
-Det, du møblerer, gemmes i din egen browser. Trykker du Indsend, sendes det, du har sat ind, flyttet eller fjernet, og det navn og den besked, du selv skriver (begge er valgfri). Det sendte kan blive en del af den offentlige model; navn og besked bliver ikke vist offentligt. Ellers henter siden kun sine egne filer, bruger ingen cookies og sender ikke noget om dig videre.
+Det, du møblerer, gemmes i din egen browser. Trykker du Indsend, sendes det, du har sat ind, flyttet eller fjernet, det, du har søgt efter i kataloget uden at finde, og det navn og den besked, du selv skriver (begge er valgfri). Det sendte kan blive en del af den offentlige model; navn og besked bliver ikke vist offentligt. Ellers henter siden kun sine egne filer, bruger ingen cookies og sender ikke noget om dig videre.
