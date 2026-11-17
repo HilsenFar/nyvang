@@ -32,4 +32,4 @@ Mangler der noget i kataloget, så søg efter det i feltet ved fanerne. Det, der
 
 ## Dine data
 
-Det, du møblerer, gemmes i din egen browser. Trykker du Indsend, sendes det, du har sat ind, flyttet eller fjernet, det, du har søgt efter i kataloget uden at finde, og det navn og den besked, du selv skriver (begge er valgfri). Det sendte kan blive en del af den offentlige model; navn og besked bliver ikke vist offentligt. Ellers henter siden kun sine egne filer, bruger ingen cookies og sender ikke noget om dig videre.
+Det, du møblerer, gemmes i din egen browser. Trykker du Indsend, sendes det, du har sat ind, flyttet eller fjernet, det, du har søgt efter i kataloget uden at finde, og det navn og den besked, du selv skriver (begge er valgfri). Det sendte kan blive en del af den offentlige model; navn og besked bliver ikke vist offentligt. Siden tæller, hvor mange gange den bliver åbnet: når den er hentet, sender den ét signal uden indhold til samme server, og der gemmes hverken adresse eller andet om dig. Ellers henter siden kun sine egne filer, bruger ingen cookies og sender ikke noget om dig videre.
